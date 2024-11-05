@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://erubaasa.github.io/HDW/sitemap_index.txt
+Sitemap: https://erubaasa.github.io/kCo/sitemap_index.txt
+Sitemap: https://erubaasa.github.io/mJs/sitemap_index.txt
+Sitemap: https://erubaasa.github.io/wOn/sitemap_index.txt
